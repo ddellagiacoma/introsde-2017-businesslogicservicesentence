@@ -4,7 +4,7 @@ This service is part of the project described [here](https://github.com/ddellagi
 
 *	**DailyMotivationalWeather:** generate a motivational sentence based on the current weather and the sports related to the weather according to its algorithm.
 
-*	**DailyMotivationalCalories:**calculate on a random sport and for a random number of hours how many calories the person actually will burn and generate a motivational sentence based on it  according to its algorithm.
+*	**DailyMotivationalCalories:** calculate on a random sport and for a random number of hours how many calories the person actually will burn and generate a motivational sentence based on it  according to its algorithm.
 
 *	**motivationBasedonBmiStatus:** generate a motivational sentence according to its algorithm based on the bmi status changing of the person during a period of time.
 
